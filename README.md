@@ -24,11 +24,6 @@ sudo apt-get update ; git clone https://github.com/threat0/fb_down.git ; cd fb_d
 ```
 clear; pkg update ;pkg install python3 && python ; git clone https://github.com/threat0/fb_down.git ; cd fb_down ; python3 setup.py
 ```
-# `Script name and password`
-```
-Script Name : Faxel
-Script Pssd : Faxel
-```
 ## `DEMO : `
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/threat0/fb_down/master/demo/d1.png" width="700" heigh="500"/></br>
