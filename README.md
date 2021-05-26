@@ -7,7 +7,7 @@
 <a href="https://github.com/threat0/"><img title="Auteur" src="https://img.shields.io/badge/Auteur-Faxel-red.svg?logo=github"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-syteme-green.svg?"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-v2021.1.1-green.svg?"></a>
 <a href="https://github.com/threat0/followers"><img title="Abonnés" src="https://img.shields.io/github/followers/threat0?color=blue"></a>
 <a href="https://github.com/threat0/insta_down/stargazers/"><img title="Étoiles" src="https://img.shields.io/github/stars/threat0/fb_down??color=red"></a>
 <a href="https://github.com/threat0/insta_down/network/members"><img title="Fourches" src="https://img.shields.io/github/forks/threat0/fb_down??color=red"></a>
