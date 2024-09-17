@@ -32,7 +32,7 @@ clear; pkg update ;pkg install python3 && python ; git clone https://github.com/
 
 ## `Si vous copiez ce code, alors donnez-moi les crédits & retrouver moi sur : ` 
 
-[![Github](https://img.shields.io/badge/Github-%40threat0-cyan?logo=github)](https://github.com/threat0)
+[![Github](https://img.shields.io/badge/Github-%40Faxelh-cyan?logo=github)](https://github.com/faxelh)
 [![Twitter](https://img.shields.io/twitter/follow/Faxel.svg?label=Me%20suivre&logo=twitter)](https://twitter.com/faxelhs)
 [![Instagram](https://img.shields.io/badge/Instagram-%40Faxel-magenta?logo=instagram)](https://www.instagram.com/faxelh)
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-%40Faxel-whatsapp--green?logo=whatsapp)](https://wa.me/message/HKD56CAXOBLNC1)
